@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="create csv and save">
+    <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="Load Records">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,8 +203,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.testcode" />
-        <item itemvalue="Python.sample" />
         <item itemvalue="Python.arpi" />
+        <item itemvalue="Python.sample" />
         <item itemvalue="Python.upload" />
       </list>
     </recent_temporary>
@@ -371,7 +370,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746449499861</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="create csv and save">
+      <option name="closed" value="true" />
+      <created>1746449898945</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1746449898945</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Load Records">
+      <option name="closed" value="true" />
+      <created>1746449955154</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1746449955154</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +417,8 @@
     </ignored-roots>
     <MESSAGE value="commit try" />
     <MESSAGE value="create csv and save" />
-    <option name="LAST_COMMIT_MESSAGE" value="create csv and save" />
+    <MESSAGE value="Load Records" />
+    <option name="LAST_COMMIT_MESSAGE" value="Load Records" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/assignment$arpi.coverage" NAME="arpi Coverage Results" MODIFIED="1746408958864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
