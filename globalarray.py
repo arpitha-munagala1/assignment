@@ -1,4 +1,4 @@
-mport csv
+import csv
 
 # Global parallel arrays
 student_ids = []
