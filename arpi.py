@@ -1,16 +1,39 @@
 import csv
-# Step 1: Create and save your CSV file
-with open('students.csv', mode='w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    # Write header
-    writer.writerow(['student_no', 'student_name', 'email_id', 'year_of_enrolment', 'course_module',
-                     'study_level', 'course_delivery', 'fees'])
-    # Write your student data
-    writer.writerow([106050, 'Chandu', 'chandu@gmail.com', 2025, 'Computer Science', 'Master', 'Online', 20000])
-    writer.writerow([106051, 'Arpitha', 'arpitha@gmail.com', 2025, 'Data Science', 'Bachelor', 'Oncampus', 25000])
-    writer.writerow([106052, 'srikar', 'srikar@gmail.com', 2025, 'Arts', 'Bachelor', 'Online', 25000])
-    writer.writerow([106053, 'srinika', 'srinika@hotmail.com', 2025, 'Law', 'Diploma', 'Oncampus', 15000])
-    writer.writerow([106054, 'riya', 'riyansh@outlook.com', 2025, 'Cybersecurity', 'Certificate', 'Oncampus', 8000])
-    writer.writerow([106055, 'rishik', 'rishik@gmail.com', 2025, 'Arts', 'Diploma', 'Online', 10000])
-    writer.writerow([106056, 'murali', 'murali@gmail.com', 2025, 'Animation', 'Advanced Diploma', 'Oncampus', 20000])
-    writer.writerow([106057, 'deepu, 'deepu@outlook.com', 2025, 'Health', 'Master', 'Online', 25000])
+
+# Global parallel arrays
+student_ids = []
+names = []
+emails = []
+years = []
+courses = []
+qualifications = []
+study_modes = []
+fees = []
+
+FILENAME = 'students.csv'  # reading data from the csv file
+
+def load_records():
+    try:
+        with open(FILENAME, mode='r', newline='', encoding='utf-8') as file:
+            reader = csv.reader(file)
+            # Clear arrays before loading new data
+            student_ids.clear()
+            names.clear()
+            emails.clear()
+            years.clear()
+            courses.clear()
+            qualifications.clear()
+            study_modes.clear()
+            fees.clear()
+            for row in reader:
+                student_ids.append(row[0])
+                names.append(row[1])
+                emails.append(row[2])
+                years.append(row[3])
+                courses.append(row[4])
+                qualifications.append(row[5])
+                study_modes.append(row[6])
+                fees.append(row[7])
+        print("\nRecords loaded successfully.\n")
+    except FileNotFoundError:
+        print(f"\nError: File '{FILENAME}' not found. Please make sure it exists.\n")
