@@ -1,5 +1,8 @@
 import csv
+
 # Global parallel arrays
+student_nos = []
+student_names = []
 email_ids = []
 years_of_enrolment = []
 course_modules = []
@@ -8,7 +11,7 @@ course_deliveries = []
 fees_list = []
 
 def load_data(filename):
-    """Loads student d from a CSV file into parallel arrays."""
+    """Loads student data from a CSV file into parallel arrays."""
     with open(filename, newline='') as file:
         reader = csv.reader(file)
         next(reader)  # Skip header
