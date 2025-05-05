@@ -1,6 +1,5 @@
 import csv
 # Global parallel arrays
-3
 email_ids = []
 years_of_enrolment = []
 course_modules = []
@@ -35,8 +34,3 @@ def display_table():
 if __name__ == "__main__":
     load_data("students.csv")
     display_table()
-
-
-
-
-
