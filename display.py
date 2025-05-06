@@ -1,3 +1,17 @@
+import csv
+
+# Global parallel arrays
+student_ids = []
+names = []
+emails = []
+years = []
+courses = []
+qualifications = []
+study_modes = []
+fees = []
+
+FILENAME = 'students.csv'  # reading data from the csv file
+
 def display_records():
     if not student_ids:
         print("\nNo records to display. Please load or add records first.\n")
