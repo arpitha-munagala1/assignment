@@ -39,3 +39,24 @@ def add_record():
     # Display all record after successfullyy adding files
     print("\n current Records:")
     display_records()
+
+ def delete_record():
+        if not student_ids:
+            print("\nNo records to delete. Please load records first.\n")
+            return
+
+        delete_id = input("Enter Student ID to delete: ")
+        if delete_id in student_ids:
+            index = student_ids.index(delete_id)
+            # Remove from all arrays
+            student_ids.pop(index)
+            names.pop(index)
+            emails.pop(index)
+            years.pop(index)
+            courses.pop(index)
+            qualifications.pop(index)
+            study_modes.pop(index)
+            fees.pop(index)
+            print("\nRecord deleted successfully.\n")
+        else:
+            print("\nStudent ID not found.\n")
