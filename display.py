@@ -2,7 +2,6 @@ def display_records():
     if not student_ids:
         print("\nNo records to display. Please load or add records first.\n")
         return
-
     print(
         f"{'ID':>8}  {'Name':<10}  {'Email':<25}  {'Year':>6}  {'Course':<15}  {'Qual.':<18}  {'Mode':<10}  {'Fees':>10}")
     print("-" * 110)
