@@ -1,19 +1,19 @@
 import csv
 
 # Global parallel arrays
-student_ids = []
-names = []
-emails = []
-years = []
-courses = []
-qualifications = []
-study_modes = []
+student_id = []
+name = []
+email = []
+year = []
+course = []
+qualification = []
+study_mode = []
 fees = []
 
 FILENAME = 'students.csv'  # reading data from the csv file
 
 def display_records():
-    if not student_ids:
+    if not student_id:
         print("\nNo records to display. Please load or add records first.\n")
         return
     print(
@@ -36,11 +36,11 @@ def add_record():
     fees.append(input("Fees: "))
     print("\n Record added successfully.\n")
 
-    # Display all record after successfullyy adding files
+    # Display all record after successfully adding files
     print("\n current Records:")
     display_records()
 
- def delete_record():
+def delete_record():
         if not student_ids:
             print("\nNo records to delete. Please load records first.\n")
             return
