@@ -46,8 +46,8 @@ def display_records():
         f"{'Student-ID':>8}  {'Name':<10}  {'Email':<25}  {'Year':>6}  {'Course':<15}  {'Qualification.':<18}  {'Study-Mode':<10}  {'Fees':>10}")
     print("-" * 110)
     for i in range(len(student_id)):
-        print(f"{student_ids[i]:>8}  {names[i]:<10}  {emails[i]:<25}  {years[i]:>6}  "
-              f"{courses[i]:<15}  {qualifications[i]:<18}  {study_modes[i]:<10}  {fees[i]:>10}")
+        print(f"{student_id[i]:>8}  {name[i]:<10}  {email[i]:<25}  {year[i]:>6}  "
+              f"{course[i]:<15}  {qualification[i]:<18}  {study_mode[i]:<10}  {fees[i]:>10}")
     print()
 
 def add_record():
