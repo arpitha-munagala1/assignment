@@ -90,10 +90,10 @@ def delete_record():
 def save_records():
     with open(FILENAME, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        for i in range(len(student_ids)):
+        for i in range(len(student_id)):
             writer.writerow([
-                student_ids[i], names[i], emails[i], years[i],
-                courses[i], qualifications[i], study_modes[i], fees[i]
+                student_id[i], name[i], email[i], year[i],
+                course[i], qualification[i], study_mode[i], fees[i]
             ])
     print("\nRecords saved successfully.\n")
 
