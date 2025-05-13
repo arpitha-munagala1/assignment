@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="csv and test code">
       <change afterPath="$PROJECT_DIR$/~$oject.documentation.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/students.csv" beforeDir="false" afterPath="$PROJECT_DIR$/students.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +91,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.semfinal (1)">
+  <component name="RunManager" selected="Python.final">
     <configuration name="final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="assignment" />
       <option name="ENV_FILES" value="" />
@@ -229,9 +228,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.semfinal (1)" />
         <item itemvalue="Python.final" />
         <item itemvalue="Python.testcode" />
+        <item itemvalue="Python.semfinal (1)" />
         <item itemvalue="Python.save" />
         <item itemvalue="Python.semfinal" />
       </list>
@@ -502,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747101694321</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="csv and test code">
+      <option name="closed" value="true" />
+      <created>1747106982594</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1747106982594</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,234 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3f49f186-3983-425c-85ef-cd0bca2a9c61\" name=\"Changes\" comment=\"Load Records\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"7268400d-c3de-4a6c-b405-972bf9eceedb\" />\r\n        <option name=\"url\" value=\"https://github.com/arpitha-munagala1/assignment.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/upload.py\" root0=\"SKIP_INSPECTION\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2wZlgXjzUFJxhLEDyafEVnXGutV\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"Python.arpi.executor\": \"Run\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"Python.sample.executor\": \"Run\",\r\n    \"Python.testcode.executor\": \"Run\",\r\n    \"Python.upload.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/munag/python.assign/assignment\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"GitStage.ChangesTree.GroupingKeys\": [\r\n      \"directory\",\r\n      \"module\",\r\n      \"repository\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.testcode\">\r\n    <configuration name=\"arpi\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"assignment\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/arpi.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"assignment\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"sample\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"assignment\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/assignment\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/assignment/sample.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"testcode\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"assignment\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/testcode.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"upload\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"assignment\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/upload.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.testcode\" />\r\n        <item itemvalue=\"Python.arpi\" />\r\n        <item itemvalue=\"Python.sample\" />\r\n        <item itemvalue=\"Python.upload\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3f49f186-3983-425c-85ef-cd0bca2a9c61\" name=\"Changes\" comment=\"\" />\r\n      <created>1746257088502</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1746257088502</updated>\r\n      <workItem from=\"1746407894568\" duration=\"1384000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"commit try\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746336969510</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746336969510</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"commit try\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746338868820</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746338868820</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"commit try\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746340421495</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746340421495</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"commit try\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746341208214</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746341208214</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746342295314</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746342295314</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746407982365</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746407982380</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746408021832</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746408021832</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746408176079</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746408176079</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746408231023</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746408231023</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746408406473</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746408406473</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746408658330</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746408658330</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746408973843</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746408973843</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746417009507</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746417009507</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746447580336</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746447580336</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746448087800</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746448087800</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746448818861</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746448818861</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746449151202</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746449151202</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746449499861</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746449499861</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"create csv and save\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746449898945</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746449898945</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Load Records\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746449955154</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746449955154</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"Load Records\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746450363202</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746450363202</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Load Records\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746450639786</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746450639786</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"23\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$/..\" />\r\n      <path value=\"$PROJECT_DIR$/assignment\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"commit try\" />\r\n    <MESSAGE value=\"create csv and save\" />\r\n    <MESSAGE value=\"Load Records\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Load Records\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/assignment$arpi.coverage\" NAME=\"arpi Coverage Results\" MODIFIED=\"1746408958864\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 473595359a889540f2a2aa0877325c0736cec511)
++++ b/.idea/workspace.xml	(date 1746530086979)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="Load Records" />
++    <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="Load, Display Delete Records">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -25,10 +27,10 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">
+     <option name="selectedUrlAndAccountId">
+       <UrlAndAccount>
+@@ -58,8 +60,11 @@
+   "keyToString": {
+     "ASKED_ADD_EXTERNAL_FILES": "true",
+     "Python.arpi.executor": "Run",
++    "Python.display.executor": "Run",
+     "Python.main.executor": "Run",
+     "Python.sample.executor": "Run",
++    "Python.save.executor": "Run",
++    "Python.semfinal (1).executor": "Run",
+     "Python.testcode.executor": "Run",
+     "Python.upload.executor": "Run",
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+@@ -73,7 +78,7 @@
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
+     "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
++    "settings.editor.selected.configurable": "vcs.Git",
+     "vue.rearranger.settings.migration": "true"
+   },
+   "keyToStringList": {
+@@ -84,8 +89,8 @@
+     ]
+   }
+ }]]></component>
+-  <component name="RunManager" selected="Python.testcode">
+-    <configuration name="arpi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RunManager" selected="Python.semfinal (1)">
++    <configuration name="display" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="assignment" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -98,8 +103,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arpi.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/display.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -131,7 +135,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="save" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="assignment" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -140,11 +144,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment/sample.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -153,7 +157,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="testcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="semfinal (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="assignment" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -166,7 +170,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcode.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/semfinal.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -175,7 +179,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="upload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="semfinal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="assignment" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -189,7 +193,29 @@
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/upload.py" />
++      <option name="SCRIPT_NAME" value="C:\Users\munag\python.assign\assignment\semfinal.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="testcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="assignment" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcode.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -200,10 +226,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Python.semfinal (1)" />
++        <item itemvalue="Python.semfinal" />
++        <item itemvalue="Python.display" />
++        <item itemvalue="Python.save" />
+         <item itemvalue="Python.testcode" />
+-        <item itemvalue="Python.arpi" />
+-        <item itemvalue="Python.sample" />
+-        <item itemvalue="Python.upload" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -400,7 +427,47 @@
+       <option name="project" value="LOCAL" />
+       <updated>1746450639786</updated>
+     </task>
+-    <option name="localTasksCounter" value="23" />
++    <task id="LOCAL-00023" summary="Load Records">
++      <option name="closed" value="true" />
++      <created>1746450713470</created>
++      <option name="number" value="00023" />
++      <option name="presentableId" value="LOCAL-00023" />
++      <option name="project" value="LOCAL" />
++      <updated>1746450713470</updated>
++    </task>
++    <task id="LOCAL-00024" summary="Display Records">
++      <option name="closed" value="true" />
++      <created>1746527336913</created>
++      <option name="number" value="00024" />
++      <option name="presentableId" value="LOCAL-00024" />
++      <option name="project" value="LOCAL" />
++      <updated>1746527336913</updated>
++    </task>
++    <task id="LOCAL-00025" summary="Display and Delete Records">
++      <option name="closed" value="true" />
++      <created>1746527846966</created>
++      <option name="number" value="00025" />
++      <option name="presentableId" value="LOCAL-00025" />
++      <option name="project" value="LOCAL" />
++      <updated>1746527846966</updated>
++    </task>
++    <task id="LOCAL-00026" summary="Load, Display Delete Records">
++      <option name="closed" value="true" />
++      <created>1746528906124</created>
++      <option name="number" value="00026" />
++      <option name="presentableId" value="LOCAL-00026" />
++      <option name="project" value="LOCAL" />
++      <updated>1746528906124</updated>
++    </task>
++    <task id="LOCAL-00027" summary="Load, Display Delete Records">
++      <option name="closed" value="true" />
++      <created>1746530044928</created>
++      <option name="number" value="00027" />
++      <option name="presentableId" value="LOCAL-00027" />
++      <option name="project" value="LOCAL" />
++      <updated>1746530044928</updated>
++    </task>
++    <option name="localTasksCounter" value="28" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -432,7 +499,10 @@
+     <MESSAGE value="commit try" />
+     <MESSAGE value="create csv and save" />
+     <MESSAGE value="Load Records" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Load Records" />
++    <MESSAGE value="Display Records" />
++    <MESSAGE value="Display and Delete Records" />
++    <MESSAGE value="Load, Display Delete Records" />
++    <option name="LAST_COMMIT_MESSAGE" value="Load, Display Delete Records" />
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+     <SUITE FILE_PATH="coverage/assignment$arpi.coverage" NAME="arpi Coverage Results" MODIFIED="1746408958864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
