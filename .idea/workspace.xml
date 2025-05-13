@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="code modify">
+    <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="csv and test code">
+      <change afterPath="$PROJECT_DIR$/~$oject.documentation.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semfinal.py" beforeDir="false" afterPath="$PROJECT_DIR$/semfinal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/students.csv" beforeDir="false" afterPath="$PROJECT_DIR$/students.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,41 +58,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.arpi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.display.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sample.executor&quot;: &quot;Run&quot;,
-    &quot;Python.save.executor&quot;: &quot;Run&quot;,
-    &quot;Python.semfinal (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.testcode.executor&quot;: &quot;Run&quot;,
-    &quot;Python.upload.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/munag/python.assign/assignment&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.arpi.executor": "Run",
+    "Python.display.executor": "Run",
+    "Python.final.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.sample.executor": "Run",
+    "Python.save.executor": "Run",
+    "Python.semfinal (1).executor": "Run",
+    "Python.testcode.executor": "Run",
+    "Python.upload.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/munag/python.assign/assignment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python.testcode">
-    <configuration name="display" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.semfinal (1)">
+    <configuration name="final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="assignment" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/display.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.testcode" />
         <item itemvalue="Python.semfinal (1)" />
+        <item itemvalue="Python.final" />
+        <item itemvalue="Python.testcode" />
         <item itemvalue="Python.save" />
         <item itemvalue="Python.semfinal" />
-        <item itemvalue="Python.display" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +486,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747090007517</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="code modify">
+      <option name="closed" value="true" />
+      <created>1747101650917</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1747101650917</updated>
+    </task>
+    <task id="LOCAL-00031" summary="csv and test code">
+      <option name="closed" value="true" />
+      <created>1747101694321</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1747101694321</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +541,8 @@
     <MESSAGE value="Display and Delete Records" />
     <MESSAGE value="Load, Display Delete Records" />
     <MESSAGE value="code modify" />
-    <option name="LAST_COMMIT_MESSAGE" value="code modify" />
+    <MESSAGE value="csv and test code" />
+    <option name="LAST_COMMIT_MESSAGE" value="csv and test code" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/assignment$arpi.coverage" NAME="arpi Coverage Results" MODIFIED="1746408958864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
