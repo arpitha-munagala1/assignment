@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="project documentation notes">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final.py" beforeDir="false" afterPath="$PROJECT_DIR$/final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.documentation.docx" beforeDir="false" afterPath="$PROJECT_DIR$/project.documentation.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$oject.documentation.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -543,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747109050502</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="project documentation notes">
+      <option name="closed" value="true" />
+      <created>1747109913792</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1747109913792</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
