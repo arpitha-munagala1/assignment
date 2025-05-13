@@ -37,6 +37,7 @@ def display_table():
         print(f"{student_id[i]:>7} | {name[i]:<10} | {email[i]:<25} | {year[i]:>4} | "
               f"{course[i]:<15} | {study_mode[i]:<18} | {qualification[i]:<10} | {fees[i]:>6}")
 
+
 # Entry point for testing the program
 if __name__ == "__main__":
     load_data("students.csv")

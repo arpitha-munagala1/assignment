@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="csv and test code">
-      <change afterPath="$PROJECT_DIR$/~$oject.documentation.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students.csv" beforeDir="false" afterPath="$PROJECT_DIR$/students.csv" afterDir="false" />
+    <list default="true" id="3f49f186-3983-425c-85ef-cd0bca2a9c61" name="Changes" comment="project documentation notes">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final.py" beforeDir="false" afterPath="$PROJECT_DIR$/final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.documentation.docx" beforeDir="false" afterPath="$PROJECT_DIR$/project.documentation.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$oject.documentation.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +37,12 @@
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="arpitha-munagala1" />
+        <option name="repository" value="assignment" />
+      </RepoCoordinatesHolder>
+    </option>
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="7268400d-c3de-4a6c-b405-972bf9eceedb" />
@@ -509,7 +519,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747106982594</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="csv and test code">
+      <option name="closed" value="true" />
+      <created>1747107096341</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1747107096341</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Manually added record">
+      <option name="closed" value="true" />
+      <created>1747107583898</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1747107583898</updated>
+    </task>
+    <task id="LOCAL-00035" summary="project documentation notes">
+      <option name="closed" value="true" />
+      <created>1747109050502</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1747109050502</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +583,9 @@
     <MESSAGE value="Load, Display Delete Records" />
     <MESSAGE value="code modify" />
     <MESSAGE value="csv and test code" />
-    <option name="LAST_COMMIT_MESSAGE" value="csv and test code" />
+    <MESSAGE value="Manually added record" />
+    <MESSAGE value="project documentation notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="project documentation notes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/assignment$arpi.coverage" NAME="arpi Coverage Results" MODIFIED="1746408958864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

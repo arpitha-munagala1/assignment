@@ -46,7 +46,6 @@ def load_records():
     except FileNotFoundError:
         print(f"\nError: File '{FILENAME}' not found. Please make sure it exists.\n")
 
-
 def display_records():
     # Displays all student records in a structured format.
 
