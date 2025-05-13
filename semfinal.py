@@ -1,4 +1,4 @@
-import csv
+import csv # To read and write CSV files, import the CSV module.
 
 # Global parallel arrays
 student_id = []
